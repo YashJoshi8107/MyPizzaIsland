@@ -1,0 +1,62 @@
+[
+    {
+        "_id": 0,
+        "name": "Four Cheese",
+        "img": "/images/pizza1.png",
+        "price": "500"
+    },
+    {
+        "_id": 1,
+        "name": "Chicken Mushroom",
+        "img": "/images/pizza2.png",
+        "price": "900"
+    },
+    {
+        "_id": 2,
+        "name": "Margarita",
+        "img": "/images/pizza3.png",
+        "price": "1500"
+    },
+    {
+        "_id": 3,
+        "name": "Carbonara",
+        "img": "/images/pizza1.png",
+        "price": "1200"
+    },
+    {
+        "_id": 4,
+        "name": "Mix BBQ",
+        "img": "/images/pizza4.png",
+        "price": "500"
+    },
+    {
+        "_id": 5,
+        "name": "Mushroom",
+        "img": "/images/pizza1.png",
+        "price": "800"
+    },
+    {
+        "_id": 6,
+        "name": "Double Peproni",
+        "img": "/images/peproni.png",
+        "price": "700"
+    },
+    {
+        "_id": 7,
+        "name": "Chicken Premier",
+        "img": "/images/pizza5.png",
+        "price": "700"
+    },
+    {
+        "_id": 8,
+        "name": "Caramel Pineapple",
+        "img": "/images/pizza6.png",
+        "price": "700"
+    },
+    {
+        "_id": 9,
+        "name": "Havana Special",
+        "img": "/images/pizza3.png",
+        "price": "700"
+    }
+]
